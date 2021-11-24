@@ -1,6 +1,12 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@font-face {
+    font-family: 'FonteLogo';
+    src: url("../_fonts/bubblegum-sans-regular.otf"); 
+}
+/*  DICA: consulte o site do "www.google.com/fonts"  */
 
-body    {
+body {
     background-color: #dddddd;
     color: rgba(0, 0, 0, 1);
 }
@@ -23,6 +29,22 @@ header#cabecalho img#icone {
 header#cabecalho {
     border-bottom: 1px #606060 solid;
     height: 150px;
+    background: url("../_imagens/glass-logo-peq.jpg")no-repeat 0px 80px;
+}
+header#cabecalho h1 {
+    font-family: 'FonteLogo',Arial, Helvetica, sans-serif;
+    font-size: 30pt;
+    color: #606060;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    padding: 0px;
+    margin-bottom: 0px;
+}
+header#cabecalho h2 {
+    font-family: 'Titillium Web', sans-serif;
+    color: #888888;
+    font-size: 15pt;
+    padding: 0px;
+    margin-top: 0px;
 }
 
 /* FORMATAÇÃO DE IMAGENS COM LEGENDAS */
@@ -81,5 +103,36 @@ nav#menu a:hover {
     color:white;
 }
 
+/* CONFIGURAÇÃO DA TELA */
+
+section#corpo {
+    display: block;
+    width: 520px;
+    float: left;
+    border-right: 1px solid #606060;
+    padding-right: 15px;
+}
+table#tabelaspec {
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+table#tabelaspec td {
+    border: 1px solid #606060;
+    padding: 10px;
+}
+aside#lateral {
+    display: block;
+    width: 350px;
+    float: right;
+}
+footer#rodape {
+    clear: both;
+    border-top: 1px solid #606060;
+}
+footer#rodape p{
+
+}
 
 
