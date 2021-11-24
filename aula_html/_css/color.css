@@ -1,0 +1,11 @@
+/* FORMATAÇÃO DAS CORES */
+:root{
+    --text-white: #fff;
+    --text-black: rgba(0,0,0,1);
+    --text-grey: #606060;
+    --color-white: #dddddd;
+    --color-black: black;
+    --color-grey: #606060;
+    --shadow-black: rgba(0,0,0,.4);
+
+}
