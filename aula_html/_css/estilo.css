@@ -77,6 +77,11 @@ figure.foto-legenda figcaption {
     box-sizing: border-box;
     transition: opacity 1s;
 }
+video#filme {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
 figure.foto-legenda:hover figcaption {
     opacity: 1;
 }
