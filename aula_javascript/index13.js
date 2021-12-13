@@ -1,6 +1,6 @@
 var agora = new Date()
 var diaSem = agora.getDay()
-console.log (diaSem)
+//console.log (diaSem)
 switch (diaSem){
     case 0:
         console.log ('DOMINGO')
@@ -22,5 +22,8 @@ switch (diaSem){
         break
     case 6:
         console.log ('SABADO')
+        break
+    default:
+        console.log ('[ERRO] Dia inválido!')
         break
 }

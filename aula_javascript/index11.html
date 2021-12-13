@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qual sua nacionalidade?</title>
+</head>
+<body>
+    <h1>Qual a sua nacionalidade?</h1>
+    Digite o país que nasceu: <input type="text" name="npaís" id="ipaís">
+    <input type="button" value="Verificar" onclick="pesquisar()">
+
+    <script>
+        function pesquisar(){
+           var país = window.document.getElementById ('ipaís')
+            if(país == 'Brasil'){
+                res.innerHTML += `<p>Você é Brasileiro!</p>`
+            } else {
+                res.innerHTML += `<p>Você é Estrangeiro!</p>`
+            }            
+        }
+    </script>
+</body>
+</html>
