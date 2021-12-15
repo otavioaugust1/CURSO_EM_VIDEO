@@ -6,6 +6,7 @@ Aqui é um repositorio dos cursos de:
 ## HTML
 #### aula_html
 ![imagen](imagens/curso_html_320.jpg) 
+
 O Curso em Video e com apoio de 3 patrocinadores apresentam um curso de HTML5 e CSS3 para iniciantes... 
 Professor Guanabara.
 
@@ -14,6 +15,7 @@ Professor Guanabara.
 ## HTML5 e CSS3 (2020)
 #### aula_html_css
 ![imagen](imagens/curso_html_css_320.jpg)
+
 Um novo Curso em Video totalmente reformulado em 5 etapas... 
 https://github.com/gustavoguanabara/html-css
 
@@ -21,6 +23,7 @@ https://github.com/gustavoguanabara/html-css
 ## JAVASCRIPT
 #### aula_javascript
 ![imagen](imagens/curso_javascript_320.jpg)
+
 O Curso em Vídeo e o Google apresentam um curso de JavaScript e ECMAScript para Iniciantes aqui no YouTube! Veja nesse vídeo os detalhes sobre o lançamento, que aconteceu todo no mesmo dia. O curso já está 100% disponível para todos, gratuitamente... 
 Professor Guanabara. 
 https://www.cursoemvideo.com/

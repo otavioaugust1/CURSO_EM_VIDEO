@@ -5,6 +5,8 @@ Here is a repository of the courses from:
 ----
 ## HTML
 #### aula_html
+![imagen](imagens/curso_html_320.jpg) 
+
 The Video Course and with the support of 3 sponsors present a HTML5 and CSS3 course for beginners... 
 Professor Guanabara.
 ![imagen](images/course_html.jpg =)
@@ -12,12 +14,16 @@ Professor Guanabara.
 ----
 ## HTML5 and CSS3 (2020)
 #### aula_html_css
+![imagen](imagens/curso_html_css_320.jpg)
+
 a new Video Course totally redesigned in 5 steps... 
 https://github.com/gustavoguanabara/html-css
 
 ----
 ## JAVASCRIPT
 #### aula_javascript
+![imagen](imagens/curso_javascript_320.jpg)
+
 Video Course and Google present a JavaScript and ECMAScript for Beginners course here on YouTube! See in this video the details about the launch, which happened all on the same day. The course is now 100% available for everyone, free of charge... 
 Professor Guanabara. 
 https://www.cursoemvideo.com/
