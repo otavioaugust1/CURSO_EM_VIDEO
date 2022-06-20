@@ -21,8 +21,14 @@ div#res {
     padding: 9px;
 }
 
+img { /* para deixar a imagem redondinha...*/
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
 footer {
     color: white;
     text-align: center;
     font-style: italic;
 }
+
