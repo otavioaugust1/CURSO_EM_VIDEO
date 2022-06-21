@@ -32,6 +32,8 @@ https://github.com/gustavoguanabara/javascript
 ----
 ## PYTHON 3 
 ### Python 3 – Mundo 1
+![imagen](imagens/curso_python_m1_320.jpg)
+
 Python é uma linguagem ultra moderna, utilizada por grandes empresas como Google, YouTube, Industrial Light & Magic, Globo e muitas outras. Fácil de aprender, com código limpo e organizado, Python vem ganhando cada vez mais espaço, e chegou a sua hora de aprender. Curso criado pelo Prof. Gustavo Guanabara com uma temática divertida de vídeo-game para motivar seus alunos, é dividido em mundos para facilitar o estudo.
 https://www.cursoemvideo.com/curso/python-3-mundo-1/
 
